@@ -1,4 +1,4 @@
-Vending Maching Command Line Application
+# Vending Maching Command Line Application
 
 Pair programmed a command line application to emulate a vending machine.
 
